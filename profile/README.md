@@ -2,7 +2,7 @@
 
 ## Man of Steel
 
-![Total Commit](https://img.shields.io/badge/Total%20Commits-247-green)
+![Total Commit](https://img.shields.io/badge/Total%20Commits-696+-green)
 
 경기대학교 23년 1학기 기초캡스톤디자인   
 **담당: 김인철 교수님**
@@ -12,9 +12,9 @@
 
 ## Members
 
-- Infra Team: **김관식**, 이찬영, 한종걸  
-- Client Team: **신현호, 박동민**, 김상후, 이태용, 정진서  
-- Server Team: **한관희**, 이영학, 김성준, 김도희, 김혜빈  
+- Infra: **김관식**, 이찬영, 한종걸  
+- Client: **신현호, 박동민**, 김상후, 이태용, 정진서  
+- Server: **한관희**, 이영학, 김성준, 김도희, 김혜빈  
 
 ## Preview
 
