@@ -2,7 +2,7 @@
 
 ## Man of Steel
 
-![Total Commit](https://img.shields.io/badge/Total%20Commits-696+-green)
+![Total Commit](https://img.shields.io/badge/Total%20Commits-1128+-green)
 
 경기대학교 23년 1학기 기초캡스톤디자인   
 **담당: 김인철 교수님**
