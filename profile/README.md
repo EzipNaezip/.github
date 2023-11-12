@@ -1,5 +1,5 @@
 <div align="center">
-    <img  width="150" src="./logo.webp"/>
+    <img  width="150" src="profile/logo.webp"/>
     <br>
     <br>
     <img src="https://img.shields.io/badge/Build-1.0.0-green?logo=github"/>
