@@ -24,8 +24,8 @@
 - [documentation](https://github.com/EzipNaezip/documentation) - 서비스 개요 및 기획
 - [privacy-policy](https://github.com/EzipNaezip/privacy-policy) - 개인정보처리방침
 - [gd-web](https://github.com/EzipNaezip/gd-web) - 웹사이트
-- [gd-app](https://github.com/EzipNaezip/gd-app) - 서버
-- [gd-server](https://github.com/EzipNaezip/gd-server) - 안드로이드
+- [gd-app](https://github.com/EzipNaezip/gd-app) - 안드로이드
+- [gd-server](https://github.com/EzipNaezip/gd-server) - 서버
 
 ## Members
 
