@@ -2,6 +2,7 @@
     <img  width="150" src="profile/logo.webp"/>
     <br>
     <br>
+    <p><b>이집내집</b></p>
     <img src="https://img.shields.io/badge/Build-1.0.0-green?logo=github"/>
     <img src="https://img.shields.io/badge/Commits-1100%2B-blue?logo=github"/>
     <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FEzipNaezip&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Hits&edge_flat=false)](https://hits.seeyoufarm.com"/>
@@ -21,16 +22,9 @@
 
 ## Repositories
 
-- [documentation](https://github.com/EzipNaezip/documentation) - 서비스 개요 및 기획
+- [documentation](https://github.com/EzipNaezip/documentation) - 개요 및 기획
 - [privacy-policy](https://github.com/EzipNaezip/privacy-policy) - 개인정보처리방침
 - [gd-web](https://github.com/EzipNaezip/gd-web) - 웹사이트
 - [gd-app](https://github.com/EzipNaezip/gd-app) - 안드로이드
 - [gd-server](https://github.com/EzipNaezip/gd-server) - 서버
 
-## Members
-
-|  팀   | 구성원                                 |
-| :---: | -------------------------------------- |
-| Infra | 김관식, 이찬영, 한종걸                 |
-| Front | 신현호, 박동민, 김상후, 이태용, 정진서 |
-| Back  | 한관희, 이영학, 김성준, 김도희, 김혜빈 |
