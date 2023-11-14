@@ -1,7 +1,5 @@
 <div align="center">
     <img  width="150" src="profile/logo.webp"/>
-    <br>
-    <br>
     <p><b>이집내집</b></p>
     <img src="https://img.shields.io/badge/Build-1.0.0-green?logo=github"/>
     <img src="https://img.shields.io/badge/Commits-1100%2B-blue?logo=github"/>
